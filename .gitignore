@@ -59,9 +59,6 @@ venv.bak/
 # Streamlit secrets (do NOT commit secrets)
 .streamlit/secrets.toml
 
-# Arquivo de dados (contem dados de producao, nao versionar)
-NFxPRODUTO__1_.xlsx
-
 # Arquivos temporarios do Excel
 .~lock.*
 ~$*
