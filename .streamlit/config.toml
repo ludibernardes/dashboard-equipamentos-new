@@ -1,6 +1,3 @@
-[server]
-port = 8502
-
 [theme]
 primaryColor = "#007bff"
 backgroundColor = "#ffffff"
